@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.blz.selenium.test.Captcha_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-04T11:33:46" hostname="DESKTOP-KFGQFK8" time="10.167">
+  <properties/>
+  <testcase name="To_TestCaptcha_IsWorking_OrNot" classname="com.blz.selenium.test.Captcha_Test" time="10.167"/>
+  <system-out><![CDATA[601569
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
